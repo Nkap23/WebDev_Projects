@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    border:0;
+    background-color:black;
+}
+#main{
+    text-align:center;
+}
+.card{
+    display:inline-block;
+    width:40vh;
+    height:68vh;
+    margin:1%;
+    background-color:white;
+    border-radius:1%;
+    vertical-align:top;
+}
+img{
+    height:40vh;
+    border-top-right-radius:1%;
+    border-top-left-radius:1%;
+}
+.name{
+    font-size:3vh;
+}
+#content{
+    padding-left:0.5vh;
+    text-align:left;
+}
