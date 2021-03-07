@@ -1,5 +1,4 @@
-# WebDev_Projects
-Repo containing all my WebDev projects I have done
+# Project1 -  WORK IN PROGRESS
 
-INDEX:
-- GitHub Users Profile Database website for University Students (HTML, CSS, JavaScript, GitHub API)
+- Made a website were students can view the GitHub Profiles of people from their University (classmates, seniors, juniors, faculties) 
+- Used the GitHub API to fetch profile information like user’s profile picture, username, bio, followers, following & number of public repos.
