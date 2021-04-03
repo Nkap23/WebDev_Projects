@@ -1,4 +1,6 @@
-# Project1 -  WORK IN PROGRESS
+# Project2 - WORK IN PROGRESS
 
-- Made a website were students can view the GitHub Profiles of people from their University (classmates, seniors, juniors, faculties) 
-- Used the GitHub API to fetch profile information like user’s profile picture, username, bio, followers, following & number of public repos.
+- Made a website where users can make accounts, create polls and vote on other polls
+- Used Django for backend and Gooogle Firebase for user authentication and database.
+
+https://quick-poll-nkap.herokuapp.com/
